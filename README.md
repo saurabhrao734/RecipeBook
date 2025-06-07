@@ -28,7 +28,7 @@ Welcome to your **Personal Recipe Book** – a beautiful, responsive web app whe
 
 ## Project Structure
 
-Recipe-Book
+RecipeBook
 - ├── index.html # Main HTML structure
 - ├── main.js # Entry point 
 - ├── components/ # All modular JS components 
@@ -43,12 +43,12 @@ Recipe-Book
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Udit-kasana/Recipe-Book.git
+   git clone https://github.com/mukeshkumarsoni4/RecipeBook.git
 
 2. Navigate to project directory:
 
     ```
-    cd Recipe-Book
+    cd RecipeBook
 3. Install dependencies and start development server:
 
     ```
@@ -57,7 +57,6 @@ Recipe-Book
 
 ## Live Demo
 
-Check out the live demo of this project: [Recipe Book](https://udit-kasana.github.io/Recipe-Book/)
 
 ## Navigation Guide
 
