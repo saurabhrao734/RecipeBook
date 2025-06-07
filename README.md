@@ -57,7 +57,7 @@ Recipe-Book
 
 ## Live Demo
 
-Check out the live demo of this project: [Recipe Book](https://udit-kasana.github.io/Recipe-Book/)
+Check out the live demo of this project: [Recipe Book](https://github.com/mukeshkumarsoni4/RecipeBook.git)
 
 ## Navigation Guide
 
