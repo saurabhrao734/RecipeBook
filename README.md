@@ -17,7 +17,7 @@ Welcome to your **Personal Recipe Book** – a beautiful, responsive web app whe
 
 ---
 
-## Tech Stack
+## Tech Stack 
 
 - HTML5
 - CSS3 with Flexbox, Media Queries, and CSS Variables
