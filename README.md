@@ -43,7 +43,7 @@ RecipeBook
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/mukeshkumarsoni4/RecipeBook.git
+   git clone https://github.com/saurabhrao734/RecipeBook.git
 
 2. Navigate to project directory:
 
@@ -54,9 +54,6 @@ RecipeBook
     ```
     npm install
     npm run dev
-
-## Live Demo
-
 
 ## Navigation Guide
 
